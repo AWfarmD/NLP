@@ -40,13 +40,13 @@ I did a test-run topic modeling with NMF without removing the common terms apear
 
 I chose the recommender with NMF as the final recommendation system because it gave more mixed results rather than extreme results from the truncated SVD, so the users will be able to find some useful information out of the five recommendations rather than having all five wrong at some time.
 
-**Tools**
+### Tools
 
 * Beautiful Soup and Selenium for data scraping
 * Pandas for data cleaning
 * Python text processing libraries (NLTK and scikit-learn) for data preprocessing
 
-**Communication**
+### Communication
 
 Findings and slides will be presented.
 
